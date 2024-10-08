@@ -1,0 +1,7 @@
+12/26
+user:
+    home:改了showcase裡的排版(showcase裡的php前有加了table)，且showcase裡的'class="col-lg-6 my-auto showcase-text"'改成'class="col-lg-6 my-    	 auto showcase-text"'
+    credit:下方container裡的php也有更改過
+    activity:跟credit改得差不多
+manager:
+    home:改了showcase裡的排版(showcase裡的php前有加了table)
